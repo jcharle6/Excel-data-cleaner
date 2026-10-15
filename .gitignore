@@ -1,0 +1,14 @@
+# Ignore Excel files
+*.xlsx
+*.xls
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore environment variables
+.env
